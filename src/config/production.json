@@ -1,0 +1,12 @@
+{
+	"dbConfig": {
+		"DB_USER": "postgres",
+		"DB_HOST": "aws-host",
+		"DB_DATABASE": "bolierplate-db",
+		"DB_PASSWORD": "postgres",
+		"DB_PORT": 5432
+	},
+	"jwtConfig": {
+		"USER_SECRET_TOKEN": "boilerplate-secret-token"
+	}
+}
